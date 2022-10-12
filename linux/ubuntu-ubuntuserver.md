@@ -8,5 +8,5 @@ bash: java: command not found
 run : 
 - `sudo apt-get install command-not-found -y`  
 - `sudo reboot`  
-- `sudo apt update` 
+- `sudo apt update`  
 to fix this!
