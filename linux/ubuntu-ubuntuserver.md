@@ -1,4 +1,4 @@
-## command line
+## issue
 
 1.  When install new ubuntu with setup minimized we can't see suggest pakage like full install.
 ```
