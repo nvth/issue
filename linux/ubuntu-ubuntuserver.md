@@ -5,4 +5,8 @@
 root@ubuntuserver2004:/home/nvth/downloads# java                                                                        
 bash: java: command not found  
 ```
-run `apt-get install command-not-found -y` to fix this!
+run : 
+- `sudo apt-get install command-not-found -y`  
+- `sudo reboot`  
+- `sudo apt update` 
+to fix this!
