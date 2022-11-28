@@ -10,3 +10,8 @@ run :
 - `sudo reboot`  
 - `sudo apt update`  
 to fix this!
+
+2.  dpkg: error: dpkg frontend lock is locked by another process  
+run :
+-  `lsof /var/lib/dpkg/lock-frontend` check `PID`
+-  `lsof kill -9 `PID``  
